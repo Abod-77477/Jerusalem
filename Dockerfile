@@ -1,4 +1,4 @@
-FROM RepthonArabic/Repthon:slim-buster
+FROM repthonarabic/repthon:slim-buster
 
 RUN git clone https://github.com/RepthonArabic/Repthon.git /root/repthon
 
